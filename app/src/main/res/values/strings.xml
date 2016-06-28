@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+    <string name="search_book_title">Search book title</string>
+    <string name="send">Send</string>
+    <string name="connection_error">Connection error</string>
+    <string name="book_not_found">Book not Found ...</string>
+</resources>
